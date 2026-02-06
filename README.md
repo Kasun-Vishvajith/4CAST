@@ -1,7 +1,7 @@
 # 4CAST 📊✨  
 **Research Analytics & Forecasting Support**
 
-4CAST is a research-focused analytics service and platform designed to help students and researchers turn raw data into meaningful insights.  
+4CAST is a research focused analytics service and platform designed to help students and researchers turn raw data into meaningful insights.  
 We provide statistical analysis, forecasting, data visualization, and ethical academic support for thesis and research projects.
 
 ---
@@ -46,12 +46,12 @@ Our goal is to make research data analysis smooth, professional, and understanda
 - Factor analysis (PCA/FAMD)  
 
 ### 📌 Forecasting & Predictive Models
-- Time-series forecasting  
+- Time series forecasting  
 - Demand and trend prediction  
-- ML-based predictive analytics  
+- ML based predictive analytics  
 
 ### 📌 Data Visualization
-- Thesis-ready charts and tables  
+- Thesis ready charts and tables  
 - Dashboard creation (Power BI / Tableau)  
 
 ### 📌 Academic Integrity Support
@@ -66,20 +66,15 @@ Core pages for the 4CAST website:
 
 - Home  
 - Services  
-- Pricing  
-- Upload Dataset  
-- Contact / Booking  
-- Privacy Policy  
-- Terms of Service  
+- Pricing   
+- Contact  
 
 ---
 
 ## ⚙️ Tech Stack (Recommended)
 
 - **Frontend:** Next.js + Tailwind CSS  
-- **Hosting:** Vercel (Free Tier)  
-- **Database (Optional):** Supabase  
-- **Forms:** Formspree / Google Forms  
+- **Hosting:** Vercel (Free Tier)   
 - **Analytics Tools:** R, Python, SPSS, Power BI  
 
 ---
@@ -98,8 +93,8 @@ All datasets and research files shared with 4CAST are treated as strictly confid
 
 For collaboration or support:
 
-- Email: **[your email here]**  
-- WhatsApp: **[your number here]**  
+- Email: **kasunvishvajithofficial@gmail.com**  
+- WhatsApp: **+94 75 3140 204**  
 - Website: **Coming Soon**
 
 ---
